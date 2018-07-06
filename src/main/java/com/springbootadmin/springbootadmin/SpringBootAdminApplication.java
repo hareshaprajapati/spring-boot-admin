@@ -30,5 +30,4 @@ public class SpringBootAdminApplication {
 			http.httpBasic();
 		}
 	}
-
 }
